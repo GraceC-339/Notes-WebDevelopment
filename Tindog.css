@@ -1,0 +1,33 @@
+#title {
+    background-color: #ff4c68;
+    height: 35rem;
+    overflow: hidden;
+}
+
+.container-fluid {
+    padding: 3% 15%;
+}
+
+h1 {
+    font-family: 'Montserrat';
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight: 900;
+    color: white;
+}
+
+.navbar-brand {
+    font-family: 'Ubuntu';
+    font-weight: 800;
+    font-size: 1.5rem;
+}
+
+#img-mockup {
+    transform: rotate(30deg);
+    padding-top: 1rem;
+    width: 60%;
+}
+
+.navbar-nav {
+    padding-right: 10%;
+}
